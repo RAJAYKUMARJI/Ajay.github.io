@@ -2,12 +2,14 @@
 <h1 align="center">Hi 👋, Welcome to my PORTOFOLIO</h1>
 <h3 align="center">Goal to Become a Successful Analysist</h3>
 
-<img align="center" src="https://i.ibb.co/FJkvMXv/ajay.png" alt="a" width="437px" />
+<img align="left" src="https://i.ibb.co/FJkvMXv/ajay.png" alt="a" width="437px" />
 
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
-<h1 align="left">R AJAY KUMAR</h1>
-<h3 align="left">Motivated and analytical professional with experience in evaluating dashboards and developing KPI reports.Focused collaborator dedicated to interdisciplinary communication.</h3>
+<h1 align="right">R AJAY KUMAR</h1>
+<h3 align="right">Motivated and analytical professional with experience in evaluating dashboards and developing KPI reports.Focused collaborator dedicated to interdisciplinary communication.</h3>
+<p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
+<p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <h2 align="left">Contact Details:</h2>
 <p align="left">
