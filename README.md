@@ -6,12 +6,12 @@
 
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
-<h1 align="right">R AJAY KUMAR</h1>
-<h3 align="right">Motivated and analytical professional with experience in evaluating dashboards and developing KPI reports.Focused collaborator dedicated to interdisciplinary communication.</h3>
+<h1 align="center">R AJAY KUMAR</h1>
+<h3 align="center">Motivated and analytical professional with experience in evaluating dashboards and developing KPI reports.Focused collaborator dedicated to interdisciplinary communication.</h3>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
-<h2 align="left">Contact Details:</h2>
+<h2 align="center">Contact Details:</h2>
 <p align="left">
 <a href="https://www.google.com/" target="_blank" rel="noreferrer"></a><img align="center" src="https://img.icons8.com/?size=80&id=NugLL6kLMZot&format=png" alt="" height="35" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   +91 9114318291 </p>
 <p align="left">
