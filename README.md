@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://gmail.com" target="blank"></a><img align="center" src="https://img.icons8.com/?size=80&id=xLIkjgcmFOsC&format=png" alt="" height="35" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   rajaykumarji@gmail.com </p>
 <p align="left">
-<a href="https://linkedin.com/in/akash-kumar-parida" target="Akash Kumar Parida"><img align="center" src="https://img.icons8.com/?size=64&id=118979&format=png" alt="akash-kumar-parida" height="40" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  R Ajay Kumar</a>
+<a href="https://www.linkedin.com/in/r-ajay-kumar-49ab862a2" target="Akash Kumar Parida"><img align="center" src="https://img.icons8.com/?size=64&id=118979&format=png" alt="akash-kumar-parida" height="40" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  R Ajay Kumar</a>
  </p>
 <p align="left">
 <a href="https://github.com/AkashKumarParida" target="Akash Kumar Parida"><img align="center" src="https://img.icons8.com/?size=50&id=12599&format=png" height="35" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a> </p>
