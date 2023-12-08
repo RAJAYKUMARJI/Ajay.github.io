@@ -18,8 +18,8 @@
 <a href="https://www.linkedin.com/in/r-ajay-kumar-49ab862a2" target="Akash Kumar Parida"><img align="center" src="https://img.icons8.com/?size=64&id=118979&format=png" alt="akash-kumar-parida" height="40" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  R Ajay Kumar</a>
  </p>
 <p align="left">
-<a href="https://github.com/AkashKumarParida" target="Akash Kumar Parida"><img align="center" src="https://img.icons8.com/?size=50&id=12599&format=png" height="35" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a> </p>
-<a href="https://instagram.com/tr0z3n_._ak" target="blank"><img align="center" src="https://img.icons8.com/?size=80&id=NdqqxfTuEK6C&format=png" alt="tr0z3n_._ak" height="35" width="40" />     ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida </a>
+<a href="https://github.com/AkashKumarParida" target="Akash Kumar Parida"><img align="center" src="https://img.icons8.com/?size=50&id=12599&format=png" height="35" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  R Ajay Kumar</a> </p>
+<a href="https://www.instagram.com/rajaykumar32023" target="blank"><img align="center" src="https://img.icons8.com/?size=80&id=NdqqxfTuEK6C&format=png" alt="tr0z3n_._ak" height="35" width="40" />     ‌‌‌‌‎  ‌‎   ‌‎  R Ajay Kumar </a>
 
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 
