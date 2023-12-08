@@ -11,7 +11,7 @@
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
-<h2 align="center">Contact Details:</h2>
+<h2 align="left">Contact Details:</h2>
 <p align="left">
 <a href="https://www.google.com/" target="_blank" rel="noreferrer"></a><img align="center" src="https://img.icons8.com/?size=80&id=NugLL6kLMZot&format=png" alt="" height="35" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   +91 9114318291 </p>
 <p align="left">
@@ -31,11 +31,11 @@
  <p>     ‌‌‌‌‎  ‌‎   </p>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=13441&format=png" alt="python" width="40" height="40"/> </a>     ‌‌‌‌‎  ‌‎      ‌‌‌‌‎   ‌‎   ‌‎    ‌‎   ‌‎  
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=9nLaR5KFGjN0&format=png" alt="mysql" width="40" height="40"/> </a>    ‌‌‌‌‎      ‌‌‌‌‎  ‌‎   ‌‎  ‌‎   ‌‎      ‌‌‌‌‎  ‌‎   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="html5" width="40" height="40"/> </a></p>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=9nLaR5KFGjN0&format=png" alt="mysql" width="40" height="40"/> </a>    ‌‌‌‌‎      ‌‌‌‌‎  ‌‎   ‌‎  ‌‎   ‌‎      ‌‌‌‌‎  ‌‎ </p>
 
 </th>
  <th>
- <h3 align="center"><img src="https://img.icons8.com/?size=80&id=DAoPjn2XoTUN&format=png" alt="" width="32" height="35"/>     ‌Tools:</h3>
+ <h3 align="center">     ‌Tools:</h3>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 
  
